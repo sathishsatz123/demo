@@ -1,0 +1,57 @@
+	body{
+		background:#212121;
+	}
+	.container h4{
+	   color:grey;
+	}
+	.container img{
+		max-width:300px;
+		max-height:400px;
+	}
+	.container h1{
+	    color:white;
+		margin-left:50px;
+	}
+	#row{
+	   float:left;
+	   margin:0px 50px 50px 50px;
+	   width:auto;
+	   
+	}
+	.primary{
+		position:absolute;
+		left:0px;
+		top:0px;
+		padding:3px 6px;
+		background:#03a9f4;
+	}
+	.secondary{
+		position:absolute;
+		left:0px;
+		bottom:4px;
+		padding:3px 6px;
+		background:#03a9f4;
+	}
+	.card-section-1{
+		float:left;
+		position:relative;
+	}
+    .title{
+		color:white;
+		margin-left:15px;
+		padding:10px;
+		margin-bottom:40px;
+	}
+	.color-1{
+		width:300px;
+		background:#0a090d;
+		margin-bottom
+	}
+	.color-2{
+		width:300px;
+		background:#1b1b1c;
+	}
+	.color-3{
+		width:300px;
+		background:#a3070c;
+	}
